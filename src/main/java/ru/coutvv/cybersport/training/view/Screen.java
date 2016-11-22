@@ -1,4 +1,4 @@
-package ru.coutvv.cybersport.training;
+package ru.coutvv.cybersport.training.view;
 
 import static org.lwjgl.glfw.GLFW.GLFW_FALSE;
 
